@@ -21,7 +21,7 @@
     "@dynamic-labs/wagmi-connector": "^1.0.0",
     "@types/node": "20.8.7",
     "@types/react": "18.2.21",
-    "@types/react-dom": "18.2.7",
+    "@types/react-dom": "18.2.18",
     "autoprefixer": "10.4.15",
     "next": "13.5.6",
     "eslint": "8.51.0",
